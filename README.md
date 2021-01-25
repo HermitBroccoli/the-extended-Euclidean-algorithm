@@ -9,4 +9,4 @@ t2 = 1
 
 NOD(a, b) = c
 
-№python
+#python
